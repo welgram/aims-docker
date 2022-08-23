@@ -1,6 +1,6 @@
 # aims-docker
 
-- docker 로그인  
+- docker 로그인 (네이버클라우드플랫폼 인증키 사용)  
   : docker login aims.ncr.fin-ntruss.com
   
 - docker 단독실행  
