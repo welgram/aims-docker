@@ -9,6 +9,5 @@
 - docker-compose 실행  
   : docker-compose up -d
 
-인증키
-: 네이버클라우드플랫폼(https://www.fin-ncloud.com/mypage/manage/auth)
-계정관리 > 인증키 
+- 인증키
+네이버클라우드플랫폼(https://www.fin-ncloud.com/mypage/manage/auth) > 계정관리 > 인증키 
